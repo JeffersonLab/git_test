@@ -1,0 +1,8 @@
+This is file b.txt.
+different 
+And another line.
+changes
+
+line not tagged.
+
+junk2

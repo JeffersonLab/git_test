@@ -1,0 +1,8 @@
+This is file c.txt.
+This line was added on branch "branch0".
+mail test for sun.
+mail test for hp.
+mail test for linux, not mailx.
+mail test for linux, not mailx, this time for sure.
+add a line.
+also deleted the aix line.
