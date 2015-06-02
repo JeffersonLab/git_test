@@ -1,3 +1,4 @@
+new first line
 This is file b.txt.
 different 
 And another line.
