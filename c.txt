@@ -6,3 +6,4 @@ mail test for linux, not mailx.
 mail test for linux, not mailx, this time for sure.
 add a line.
 also deleted the aix line.
+what? this is some history
