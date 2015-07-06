@@ -3,4 +3,7 @@ add a line in June
 add a line to be switched to branch
 add another new line.
 one more line
+added to branch my_work
+added line on master branch
 
+Sat Jul  4 22:35:44 EDT 2015
