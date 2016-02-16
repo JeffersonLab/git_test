@@ -3,9 +3,7 @@ This is file b.txt.
 different 
 And another line.
 changes
-
 line not tagged.
-
 junk2
 Sat Jul  4 22:35:47 EDT 2015
 no config
