@@ -1,11 +1,5 @@
 This is file c.txt.
 This line was added on branch "branch0".
-mail test for sun.
-mail test for hp.
-mail test for linux, not mailx.
-mail test for linux, not mailx, this time for sure.
-add a line.
-also deleted the aix line.
 what? this is some history
 Sat Jul  4 22:35:52 EDT 2015
 new line for Simon
